@@ -6,4 +6,4 @@ model <- lm(y~x)
 
 summary(model)
 
-plot(model)
+plot(model, color="blue")
