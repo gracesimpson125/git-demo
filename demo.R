@@ -6,3 +6,4 @@ model <- lm(y~x)
 
 summary(model)
 
+plot(model)
